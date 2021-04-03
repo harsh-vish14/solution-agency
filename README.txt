@@ -1,6 +1,6 @@
 
 TITLE: 
-Solution - 100% Fully Responsive Free HTML5 Bootstrap 4 Template
+Solution - 100% Fully Responsive
 
 AUTHOR:
 Harshkumar Vishwakarma Released
